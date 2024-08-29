@@ -667,7 +667,6 @@ G2L["3c"]["Size"] = UDim2.new(0, 200, 0, 17);
 G2L["3c"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 G2L["3c"]["Text"] = "leaked by: discord.gg/CvqapNFr3t";
 G2L["3c"]["Name"] = [[C]];
-G2L["3c"]["Automatic"]
 G2L["3c"]["Position"] = UDim2.new(0.13235, 0, 0.61717, 0);
 
 -- StarterGui.hohol.ware.Hohol.Setting.Styles
